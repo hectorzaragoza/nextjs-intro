@@ -33,3 +33,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Nextjs Introduction
+
+- ROUTING
+- Routing is done through the pages folder ( a file based routing system)
+- Deleting API folder (focusing elsewhere)
+- The name of the tsx file in the pages folder is also the url endpoint.
+- What is Static website vs Dynamic Server side rendering?
